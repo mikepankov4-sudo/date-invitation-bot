@@ -1,0 +1,1 @@
+AN INVITATION. Hosting variables: BOT_TOKEN, ADMIN_ID, WEBAPP_URL.
